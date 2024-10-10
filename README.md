@@ -10,10 +10,15 @@ Healthy loans (0): 15,001 (approximately 96.9%)
 High-risk loans (1): 507 (approximately 3.1%)
 The analysis followed a structured machine learning process:
 
-## Data Preparation: The dataset was read into a Pandas DataFrame, and the target variable was separated from the features.
-## Data Splitting: The dataset was divided into training and testing sets to ensure a robust evaluation of model performance.
-## Model Training: A Logistic Regression model was fitted to the training data.
-## Model Evaluation: The model's performance was evaluated using metrics such as accuracy, precision, recall, and a confusion matrix.
+## Data Preparation: 
+The dataset was read into a Pandas DataFrame, and the target variable was separated from the features.
+## Data Splitting: 
+The dataset was divided into training and testing sets to ensure a robust evaluation of model performance.
+## Model Training: 
+A Logistic Regression model was fitted to the training data.
+## Model Evaluation: 
+The model's performance was evaluated using metrics such as accuracy, precision, recall, and a confusion matrix.
+
 ### Results
 Logistic Regression Model:
 Accuracy: 99%
